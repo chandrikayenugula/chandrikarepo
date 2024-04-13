@@ -1,2 +1,2 @@
 # chandrikarepo
-learninggithub
+learninggithub telugu skill hub
